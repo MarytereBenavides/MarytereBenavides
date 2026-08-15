@@ -1,35 +1,35 @@
 ![Header](./github-header-image.png)
 
-## Hi, I'm Marytere Benavides
+# Marytere Benavides
 
-Full-stack developer from Lima, Peru, working on **financial and education systems** — the kind where money moves and a bug is not a cosmetic problem.
+**I build financial software — payments, electronic invoicing and billing systems — mostly with Java/Spring and PHP/Laravel on the backend, React and Vue on the frontend.**
 
-Most of what I build is closed-source, so here is what it actually involves:
+Lima, Peru · Open to remote roles across LATAM and US time zones.
 
-- **Payments & e-invoicing** — electronic invoicing against the Peruvian tax authority (SUNAT, UBL 2.1) and payment-gateway integrations with Izipay and Mercado Pago.
-- **POS SaaS in production** — a multi-tenant point-of-sale platform running across 15 branches.
-- **Financial data auditing** — reconciliation and accounts-receivable analysis over institutional datasets, tracing gaps between reported and real balances.
-- **Learning platforms** — Moodle plugin development and LMS integrations.
+### What I work on
 
-### What I work with
+Systems where money moves and a bug is not a cosmetic problem:
 
-**Backend** · Java 17 · Spring Boot · Spring Security · JPA/Hibernate · PHP · Laravel · Node.js
-**Frontend** · React · Next.js · Vue · Angular · TypeScript
-**Data** · MySQL · PostgreSQL · SQL analysis & reconciliation
-**Other** · Docker · REST APIs · OpenAPI/Swagger · JWT · Flyway · Playwright
+- Electronic invoicing against the Peruvian tax authority (SUNAT, UBL 2.1)
+- Payment gateway integrations — Izipay, Mercado Pago
+- A multi-tenant POS SaaS running in production across 15 branches
+- Financial data auditing — receivables and reconciliation analysis over institutional datasets
+- Moodle plugin development and LMS integrations
 
-### A few public repos
+Most of this work is closed-source, which is why the repos below are the public slice.
 
-| Repo | What it is |
+### Selected work
+
+| Project | What it is |
 |---|---|
-| [Challenge-Foro-Hub](https://github.com/MarytereBenavides/Challenge-Foro-Hub) | Forum REST API — Spring Boot 3, JWT auth, JPA, Flyway, OpenAPI docs |
-| [innovabcp_laboratoria](https://github.com/MarytereBenavides/innovabcp_laboratoria) | EducaFin — financial-education platform built at the Innova BCP hackathon |
-| [Cuantika-dawi-frontend](https://github.com/MarytereBenavides/Cuantika-dawi-frontend) | Personal finance manager — Angular 18 with SSR |
-| [Challenge-Literalura](https://github.com/MarytereBenavides/Challenge-Literalura) | Java + Spring Boot app consuming an external books API |
+| [Challenge-Foro-Hub](https://github.com/MarytereBenavides/Challenge-Foro-Hub) | Forum REST API — Spring Boot 3 / Java 17, JWT auth with Spring Security, JPA + MySQL, Flyway migrations, OpenAPI docs |
+| [innovabcp_laboratoria](https://github.com/MarytereBenavides/innovabcp_laboratoria) | EducaFin — financial-education platform built at the Innova BCP Women Edition hackathon. Next.js + Prisma with an AI assistant |
+| [Cuantika-dawi-frontend](https://github.com/MarytereBenavides/Cuantika-dawi-frontend) | Personal finance manager — Angular 18 with server-side rendering. Team project; my role: frontend |
+| [Challenge-Literalura](https://github.com/MarytereBenavides/Challenge-Literalura) | Java + Spring Boot app consuming an external books API, persisting with Spring Data JPA |
 
 ### Background
 
-Graduated from **CIBERTEC** (Software Development, 2025) and **Laboratoria** (Web Development, 2021).
-Spanish native · English intermediate.
+Software Development at **CIBERTEC** (2025) · Web Development at **Laboratoria** (2021)
+Spanish native · English intermediate
 
-📫 **maryterebenavides@gmail.com**
+📫 [maryterebenavides@gmail.com](mailto:maryterebenavides@gmail.com)
